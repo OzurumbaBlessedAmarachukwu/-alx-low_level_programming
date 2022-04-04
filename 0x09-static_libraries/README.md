@@ -1,1 +1,1 @@
-trying to understand static libraries
+my readme file
